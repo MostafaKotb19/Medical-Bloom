@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">Medical Bloom</string>
+    <string name="vision_test">Vision test</string>
+    <string name="health_calculator">Health Calculator</string>
+    <string name="hearing_test">Hearing test</string>
+    <string name="workout">Workout</string>
+    <string name="_20000_hz">20000 Hz</string>
+    <string name="could_hear">Could hear?</string>
+    <string name="hearing_range">Hearing range=</string>
+    <string name="submit">Submit</string>
+    <string name="select_frequency">Select frequency</string>
+    <string name="play">Play</string>
+    <string name="_200_20000_hz">200-20000 Hz</string>
+    <string name="your_hearing_is_fine">Your hearing is fine</string>
+    <string name="repeat_hearing_test">Repeat Hearing test</string>
+    <string name="return_to_homepage">Return to homepage</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="six">Six</string>
+    <string name="five">Five</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="color_blindness">Color Blindness</string>
+    <string name="vision_acuity">Vision Acuity</string>
+    <string name="astigmatism">Astigmatism</string>
+    <string name="color_sensitivity">Color Sensitivity</string>
+    <string name="your_vision_is_normal">Your vision is normal</string>
+    <string name="repeat_color_blindness_test">Repeat Color Blindness Test</string>
+    <string name="return_to_vision_tests">Return to vision tests</string>
+    <string name="astigmatism_instructions">
+        > Cover one eye with your hand without pressing.
+        \n> Look at the image and pay attention to how the lines appear.
+        \n> Repeat the test for both eyes.</string>
+    <string name="abs">
+        > 30 secs of crunches
+        \n> 10 secs break
+        \n> 30 secs of reverse crunches
+        \n> 10 secs of break
+        \n> 30 secs of bicycle crunches
+        \n> 10 secs of break
+        \n> 30 secs of tuck planks
+        \n> 10 secs of break
+        \n> 30 secs of scissor kicks
+        \n> 10 secs of break
+        \n> 30 secs of mountain climber
+        \n> 10 secs of break
+        \n> 30 secs of v-crunches
+        \n> 10 secs of break
+        \n> 30 secs of tik tok plank
+        \n> 10 secs of break
+        \n> 30 secs of leaning camel
+        \n> 10 secs of break
+        \n> 30 secs of left-side plank
+        \n> 10 secs of break
+        \n> 30 secs of right-side plank
+        \n> 10 secs of break
+        \n> 30 secs of star crunches
+        \n> repeat 2-3 times per week</string>
+    <string name="back">
+        > 30 secs of back extension
+        \n> 10 secs break
+        \n> 30 secs of lat bridge holds
+        \n> 10 secs of break
+        \n> 30 secs of cobra lift arm swing
+        \n> 10 secs of break
+        \n> 30 secs of bird dogs
+        \n> 10 secs of break
+        \n> 30 secs of back extension->half push-up
+        \n> 10 secs of break
+        \n> 30 secs of crab toe touches
+        \n> 10 secs of break
+        \n> 30 secs of rotators cuff W-raise
+        \n> 10 secs of break
+        \n> 30 secs of posterior plank
+        \n> 10 secs of break
+        \n> 30 secs of bow-and-arrow dumbbell
+        \n> repeat 2-3 times per week</string>
+    <string name="shoulders">
+        > 15 secs of forward arm circles
+        \n> 15 secs of backward arm circles
+        \n> 20 secs break
+        \n> 30 secs of bike push-ups
+        \n> 20 secs of break
+        \n> 30 secs of L-sit push-ups
+        \n> 10 secs of break
+        \n> 30 secs of left side laterals
+        \n> 10 secs of break
+        \n> 30 secs of right side laterals
+        \n> 10 secs of break
+        \n> 30 secs of plank-ups
+        \n> 10 secs of break
+        \n> 30 secs of mountain climber
+        \n> 10 secs of break
+        \n> 30 secs of cuban press
+        \n> repeat 2-3 times per week</string>
+    <string name="advanced">
+        > 30 secs of jumping jacks
+        \n> 10 secs break
+        \n> 30 secs of wall sit pulling stick
+        \n> 10 secs of break
+        \n> 30 secs of push-ups
+        \n> 10 secs of break
+        \n> 30 secs of bicycle crunches
+        \n> 10 secs of break
+        \n> 30 secs of step-up with dumbbells
+        \n> 10 secs of break
+        \n> 30 secs of squats pulling stick
+        \n> 10 secs of break
+        \n> 30 secs of triceps dip on chair
+        \n> 10 secs of break
+        \n> 30 secs of tik tok plank
+        \n> 10 secs of break
+        \n> 30 secs of high-knees run with dumbbells
+        \n> 10 secs of break
+        \n> 30 secs of push-ups with dumbbells
+        \n> 10 secs of break
+        \n> 30 secs of left-side plank
+        \n> 10 secs of break
+        \n> 30 secs of right-side plank
+        \n> 10 secs of break
+        \n> repeat 2-3 times per week</string>
+    <string name="legs">
+        > 30 secs basic burpees
+        \n> 15 secs break
+        \n> 30 secs of 1/2 burpee push-ups
+        \n> 15 secs of break
+        \n> 30 secs of burpee push-ups
+        \n> 15 secs of break
+        \n> 30 secs of back extension burpees
+        \n> 15 secs of break
+        \n> 30 secs of leg split burpees
+        \n> 15 secs of break
+        \n> 30 secs of plank knee-chest burpees
+        \n> 15 secs of break
+        \n> 30 secs of lunge burpees
+        \n> 15 secs of break
+        \n> 30 secs of boxing burpees
+        \n> 15 secs of break
+        \n> 30 secs of kicking burpees
+        \n> 15 secs of break
+        \n> 30 secs of jumping jack burpees
+        \n> 15 secs of break
+        \n> 30 secs of side balance burpees
+        \n> 15 secs of break
+        \n> 30 secs of back extension burpees
+        \n> repeat 2-3 times per week</string>
+    <string name="same">Same</string>
+    <string name="are_you_seeing_lines_of_different_or_same_thickness">Are you seeing lines of different or same thickness?</string>
+    <string name="different">Different</string>
+    <string name="repeat_astigmatism_test">Repeat Astigmatism Test</string>
+    <string name="you_need_to_see_a_doctor">You need to see a doctor</string>
+    <string name="up">Up</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="down">Down</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="calories_for_weight_gain_loss">Calories for weight gain/loss</string>
+    <string name="target_heart_rate">Target heart rate</string>
+    <string name="blood_volume">Blood volume</string>
+    <string name="blood_donation">Blood donation</string>
+    <string name="water_intake">Water intake</string>
+    <string name="ideal_weight">Ideal weight</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="daily_calories_need">Daily calories need</string>
+    <string name="bmi">BMI</string>
+    <string name="activity">Activity</string>
+    <string name="sedentary">Sedentary</string>
+    <string name="active">Active</string>
+    <string name="extra_active">Extra active</string>
+    <string name="very_active">Very active</string>
+    <string name="light">Light</string>
+    <string name="moderate">Moderate</string>
+    <string name="activity_level">Activity level</string>
+    <string name="calories">Calories</string>
+    <string name="confirm">confirm</string>
+    <string name="resting_heart_rate">Resting heart rate</string>
+    <string name="workout_intensity">Workout intensity</string>
+    <string name="little">Little</string>
+    <string name="intense">Intense</string>
+    <string name="heart_rate">Heart rate</string>
+    <string name="blood_donation_date">Blood donation date</string>
+    <string name="eligible_date">Eligible date</string>
+    <string name="daily_water_intake">Daily water intake</string>
+    <string name="water_amount">Water amount</string>
+    <string name="age">age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="textview">TextView</string>
+    <string name="repeat_vision_test">repeat vision test</string>
+    <string name="abs_n">abs</string>
+    <string name="advanced_n">advanced</string>
+    <string name="back_n">back</string>
+    <string name="shoulders_n">shoulders</string>
+    <string name="age2">Age</string>
+    <string name="steps">STEPS:</string>
+    <string name="full_body">Full Body</string>
+    <string name="legs2">legs</string>
+</resources>
